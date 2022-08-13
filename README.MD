@@ -1,0 +1,1 @@
+A mod for minetest that allows you to just zoom at any time

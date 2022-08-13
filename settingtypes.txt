@@ -1,0 +1,1 @@
+justzoom.zoomfov	(set fov of zoom)	int 50
